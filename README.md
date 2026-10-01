@@ -1,3 +1,3 @@
 # Start
 idk dude
-# Hoi werkt dit 
+print ("hoi werkt dit")
